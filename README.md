@@ -57,7 +57,7 @@ Along with making Tirreno's code publicly available, we provide access to this A
 
 The business behind this platform is Tirreno Technologies Sàrl, operated in Vaud (Switzerland). It is a privately owned, for-profit company with no venture capital involved. The Tirreno project started as a proprietary system in 2021 and was open-sourced (AGPL) in December 2024.
 
-The idea for Tirreno arose from a challenge: an online platfor was in need of a fraud prevention tool. We were looking for a product that could work on-premises and would not share user data with third-party vendors. Since the available solutions did not meet all our requirements, we created our own tool.
+The idea for Tirreno arose from a challenge: an online platform was in need of a fraud prevention tool. We were looking for a product that could work on-premises and would not share user data with third-party vendors. Since the available solutions did not meet all our requirements, we created our own tool.
 
 While building Tirreno, we concentrated on privacy, trust, and true sovereignty. As a result, we have built Tirreno in a secure and independent manner. The application does not have a long list of development dependencies, nor does it rely on heavy frameworks. This approach minimizes the potential attack surface.
 
